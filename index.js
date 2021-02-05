@@ -40,7 +40,7 @@ const vcard = 'BEGIN:VCARD\n'
 prefix = '!'
 blocked = []   
 limitawal = 20
-memberlimit = 999999999999
+memberlimit = 0
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 
 /******** OWNER NUMBER**********/
